@@ -1,13 +1,17 @@
-### Hey Stranger, I'm Vedant - aka [VN][github] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> [![Profile views](https://gpvc.arturio.dev/pokurt)](https://github.com/Vedant-VN)
+### Hey Stranger, I'm Vedant - aka [VN][github] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
 ## I'm a Student, Programming Aspirant, and Currently New to Github!!
 
 - 🔰 I am Maintaining A Telegram Group Management Bot Called As ["NarutoRobot"][Naruto]❤
-- 🔰 yeah I'm currently learning Python 
 - 🔰 I Kinda am looking Forward to Meet Or Observe New Devs and Learn
 - 🔰 Ahh Well,I Love Watching Anime 😁
+
+**Languages That I'm Currently Learning :**
+
+[![C++](https://img.shields.io/badge/-C++-%232c3e50?style=flat-square&logo=C++)](https://isocpp.org)
+[![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
 
 ### Spotify Playing 🎧 - [My ID][Spotify]
 
