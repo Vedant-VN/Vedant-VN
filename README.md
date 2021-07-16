@@ -27,7 +27,7 @@
 ▶ [Youtube Playlist](https://www.youtube.com/playlist?list=PL6E2GmWufsArximvOKyoR533M3dLK8ogn)
 
 ---
-
+### ![VN's github stats](https://github-readme-stats.vercel.app/api?username=Vedant-VN&show_icons=true&theme=radical&hide_title=true)
 
 </details>
 
