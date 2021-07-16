@@ -2,8 +2,7 @@
 
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
-## I'm a Student, Programming Aspirant, and Currently New to Github!! ![](https://visitor-badge.glitch.me/badge?page_id=Vedant-VN)
-
+## I'm a Student, Programming Aspirant, and Currently New to Github!! <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant-VN&label=Profile%20views&color=0e75b6&style=plastic" alt="VN" /> </p>
 - 🔰 I am Maintaining A Telegram Group Management Bot Called As ["NarutoRobot"][Naruto]❤
 - 🔰 I Kinda am looking Forward to Meet Or Observe New Devs and Learn
 - 🔰 Ahh Well,I Love Watching Anime 😁
