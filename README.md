@@ -1,4 +1,4 @@
-### Hey Stranger, I'm Vedant - aka [VN][github] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant-VN&label=Profile%20views&color=0e75b6&style=plastic" alt="VN" /> </p>
+### Hey Stranger, I'm Vedant - aka [VN][github] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> 
 
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
@@ -7,6 +7,7 @@
 - 🔰 I Kinda am looking Forward to Meet Or Observe New Devs and Learn
 - 🔰 Ahh Well,I Love Watching Anime 😁
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant-VN&label=Profile%20views&color=0e75b6&style=plastic" alt="VN" /> </p>
 **Languages That I'm Currently Learning :**
 
 [![C++](https://img.shields.io/badge/-C++-%232c3e50?style=flat-square&logo=C++)](https://isocpp.org)
