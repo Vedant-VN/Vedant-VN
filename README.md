@@ -1,4 +1,4 @@
-### Hey Stranger, I'm Vedant - aka [VN][github] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+### Hey Stranger, I'm Vedant - aka [VN][github] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> [![Profile views](https://gpvc.arturio.dev/pokurt)](https://github.com/Vedant-VN)
 
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
