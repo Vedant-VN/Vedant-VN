@@ -1,7 +1,5 @@
 ### Hey Stranger, I'm Vedant - aka [VN][github] 🤟
 
-[![Find ME](https://img.shields.io/website?label=VEDANT VN.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://t.me/Vedant_VN)
-
 ## I'm a Student, Programming Aspirant, and Currently New to Github!!
 
 - 🔰 I am Maintaining A Telegram Group Management Bot Called As ["NarutoRobot"][Naruto]❤
