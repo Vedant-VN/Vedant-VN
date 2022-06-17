@@ -4,8 +4,8 @@
 
 ## I'm a Student, Programming Aspirant, and Currently New to Github!! 
 - 🔰 I am Maintaining A Telegram Group Management Bot Called As ["NarutoRobot"][Naruto]❤
-- 🔰 I Kinda am looking Forward to Meet Or Observe New Devs and Learn
-- 🔰 Ahh Well,I Love Watching Anime 😁
+- 🔰 looking Forward to Meet Observe New Devs and Learn
+- 🔰 Ahh Well, I Love Watching Anime 🙃
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant-VN&label=Profile%20views&color=0e75b6&style=plastic" alt="VN" /> </p>
 
@@ -38,10 +38,10 @@
 
 </details>
 
-[github]: https://github.com/Vedant-VN
+[Github]: https://github.com/Vedant-VN
 [Telegram]: https://t.me/Vedant_VN
-[youtube]: https://www.youtube.com/channel/UCZco-dPIALFmA8P1tdSYieQ
-[MAL]: https://myanimelist.net/profile/VEDANT_VN_
+[Youtube]: https://www.youtube.com/channel/UCZco-dPIALFmA8P1tdSYieQ
+[MAL]: https://myanimelist.net/profile/VEDANT_VN
 [Youtube Playlist]: https://www.youtube.com/playlist?list=PL6E2GmWufsArximvOKyoR533M3dLK8ogn
-[Naruto]: https://t.me/NarutoRobot
+[Naruto Bot]: https://t.me/NarutoRobot
 [Spotify]: https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy
