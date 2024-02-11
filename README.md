@@ -3,12 +3,9 @@
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
 <p>21 y.o CSE student from <strong><a href="https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1073721995_20191213105915_20191213105938.jpg">India</a></strong>. I have been working on some projects and trying to learn as i proceed!</p>
-- 🔰 I am Maintaining A Telegram Group Management Bot Called As ["NarutoRobot"][Naruto Bot]❤
-- 🔰 looking Forward to Meet Observe New Devs and Learn
-- 🔰 Ahh Well, I Love Watching Anime 🙃
 
 <ul>
-    <li> I’m currently learning <a href="https://react.dev/">react</a> </li>
+    <li> I’m currently learning <a href="https://react.dev/">React</a> </li>
     <li> At the moment also Learning <strong>Python</strong> for AI & ML </li>
 </ul>
 
@@ -19,9 +16,13 @@
 [![C++](https://img.shields.io/badge/-C++-%232c3e50?style=flat-square&logo=C++)](https://isocpp.org)
 [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
 
-### Spotify Playing 🎧 - [My ID][Spotify]
+**Environments I'm Familiar With :**
+<p>
+    <a href="https://www.microsoft.com/en-in/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="" srcset=""></a>
+    <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="" srcset=""></a>
+    <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="" srcset=""></a>
+</p>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="VN Spotify Playing" width="350" />](https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy)
 
 ### Connect with me:
 [<img align="left" alt="VN | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
@@ -50,3 +51,21 @@
 [Youtube Playlist]: https://www.youtube.com/playlist?list=PL6E2GmWufsArximvOKyoR533M3dLK8ogn
 [Naruto Bot]: https://t.me/NarutoRobot
 [Spotify]: https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy
+
+<h2 align="center">📈 My Github Stats! </h2>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Vedant-vn&theme=highcontrast&fire=DD5523&ring=E1397B&sideLabels=65FDF6&currStreakLabel=F9D659&&background=141320" width="48%" />
+    <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Vedant-vn&show_icons=true&theme=radical" width="48%" />
+</div>  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-vn&hide=dockerfile&theme=radical" alt="" srcset="" align="center" width="49%">
+</div>  
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+</div>  
