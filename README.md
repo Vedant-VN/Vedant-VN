@@ -1,18 +1,22 @@
-<h1>Heyo, I'm Vedant - aka VN <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Heyo, I'm Vedant aka VN <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
 <p>21 y.o CSE student residing in <strong><a href="https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1073721995_20191213105915_20191213105938.jpg">India</a></strong>. I have been working on some projects and trying to learn Dev Stuff as i proceed!</p>
-<ul>
-    <li> I’m currently learning <a href="https://react.dev/">React</a> </li>
-    <li> At the moment also Learning <strong>Python</strong> for AI & ML </li>
-</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant-VN&label=Profile%20views&color=0e75b6&style=plastic" alt="VN" /> </p>
 
 <h2>Quick: About Me Section ✨</h2>
 <br>
 <a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="40%" src="https://tenor.com/view/haikyuu-gif-19416106.gif" style="right" /></a> 
+
+<ul>
+    <li> Currently I'm Investing my time into learning <a href="https://react.dev/">React</a> </li> 
+    <li> I have spent Most of my time learning frontend. </li>
+    <li> Aside from coding,<b>I love watching Anime series, Movies & Versatile Genre Shows</a></b>.</li>
+    <li> If Necessary, You can react out to me via <a href="mailto:narutovn001@gmail.com">Email</a>. </li>
+    <li> Btw Do You Love Chess? Add Me On Chess.com Here's My <a href="https://www.chess.com/member/vedant_vn">Chess ID</a></li>
+</ul>
 
 <summary> <h2> Languages That I'm Currently Learning : </h2> </summary>
 
