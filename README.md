@@ -13,7 +13,7 @@
 <ul>
     <li> Currently I'm Investing my time into learning <a href="https://react.dev/">React</a> </li> 
     <li> I have spent Most of my time learning frontend. </li>
-    <li> Aside from coding,<b>I love watching Anime series, Movies & Versatile Genre Shows</a></b>.</li>
+    <li> Aside from coding, <b>I love watching Anime series, Movies & TV Shows</a></b>.</li>
     <li> If Necessary, You can react out to me via <a href="mailto:narutovn001@gmail.com">Email</a>. </li>
     <li> Btw Do You Love Chess? Add Me On Chess.com Here's My <a href="https://www.chess.com/member/vedant_vn">Chess ID</a></li>
 </ul>
