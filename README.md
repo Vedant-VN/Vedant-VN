@@ -12,7 +12,7 @@
 
 <h2>Quick: About Me Section ✨</h2>
 <br>
-<a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="40%" src="https://tenor.com/view/haikyuu-gif-19416106" style="right" /></a> 
+<a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="40%" src="https://tenor.com/view/haikyuu-gif-19416106.gif" style="right" /></a> 
 
 <summary> <h2> Languages That I'm Currently Learning : </h2> </summary>
 
