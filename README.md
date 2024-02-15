@@ -1,4 +1,4 @@
-<h1>Heyo, I'm Vedant - aka [VN][github] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Heyo, I'm Vedant - aka VN <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
@@ -12,11 +12,7 @@
 
 <h2>Quick: About Me Section ✨</h2>
 <br>
-<a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="40%" src="https://tenor.com/view/haikyuu-gif-19416106" style="right:0px" /></a> 
-
-<p align="center">
-<img src="https://i.ibb.co/nnMhYjK/Kuroo-Tetsurou.jpg">
-</p>
+<a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="40%" src="https://tenor.com/view/haikyuu-gif-19416106" style="right" /></a> 
 
 <summary> <h2> Languages That I'm Currently Learning : </h2> </summary>
 
