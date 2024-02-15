@@ -8,7 +8,7 @@
 
 <h2>Quick: About Me Section ✨</h2>
 <br>
-<a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="40%" src="https://tenor.com/view/haikyuu-gif-19416106.gif" style="right" /></a> 
+<a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="50%" src="https://tenor.com/view/haikyuu-gif-19416106.gif" style="right" /></a> 
 
 <ul>
     <li> Currently I'm Investing my time into learning <a href="https://react.dev/">React</a> </li> 
