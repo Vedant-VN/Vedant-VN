@@ -3,15 +3,14 @@
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
 <p>21 y.o CSE student from <strong><a href="https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1073721995_20191213105915_20191213105938.jpg">India</a></strong>. I have been working on some projects and trying to learn as i proceed!</p>
-
-<p align="center">
-<img src="https://i.ibb.co/nnMhYjK/Kuroo-Tetsurou.jpg">
-</p>
-
 <ul>
     <li> I’m currently learning <a href="https://react.dev/">React</a> </li>
     <li> At the moment also Learning <strong>Python</strong> for AI & ML </li>
 </ul>
+
+<p align="center">
+<img src="https://i.ibb.co/nnMhYjK/Kuroo-Tetsurou.jpg">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant-VN&label=Profile%20views&color=0e75b6&style=plastic" alt="VN" /> </p>
 
