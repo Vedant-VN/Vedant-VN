@@ -8,11 +8,11 @@
     <li> At the moment also Learning <strong>Python</strong> for AI & ML </li>
 </ul>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant-VN&label=Profile%20views&color=0e75b6&style=plastic" alt="VN" /> </p>
+
 <p align="center">
 <img src="https://i.ibb.co/nnMhYjK/Kuroo-Tetsurou.jpg">
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant-VN&label=Profile%20views&color=0e75b6&style=plastic" alt="VN" /> </p>
 
 <summary> <h2> Languages That I'm Currently Learning : </h2> </summary>
 
