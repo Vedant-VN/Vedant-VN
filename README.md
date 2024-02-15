@@ -4,6 +4,10 @@
 
 <p>21 y.o CSE student from <strong><a href="https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1073721995_20191213105915_20191213105938.jpg">India</a></strong>. I have been working on some projects and trying to learn as i proceed!</p>
 
+<p align="center">
+<img src="https://i.ibb.co/nnMhYjK/Kuroo-Tetsurou.jpg">
+</p>
+
 <ul>
     <li> I’m currently learning <a href="https://react.dev/">React</a> </li>
     <li> At the moment also Learning <strong>Python</strong> for AI & ML </li>
