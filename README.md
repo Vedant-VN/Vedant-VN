@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant-VN&label=Profile%20views&color=0e75b6&style=plastic" alt="VN" /> </p>
 
-<h2>Quick: About Me Section ✨</h2>
+<h2>Quick: About Me Section ✨</h2> 
 <br>
 <a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="35%" src="https://tenor.com/view/haikyuu-gif-19416106.gif" style="right" /></a> 
 
@@ -50,7 +50,7 @@ Here is list of Language and tools I'm familiar with:
 </p>
 
 
-### Connect with me:
+Connect with me: <img src="https://64.media.tumblr.com/5f6cf918f45b526a0ff61d8eda220970/fe16c5739c0ca569-4d/s100x200/a676ba25cba167e7d96327732d29f839a00413e6.gifv" width="72"/> 
 [<img align="left" alt="VN | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
 [<img align="left" alt="VN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VN | MAL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/crunchyroll.svg" />][MAL]
