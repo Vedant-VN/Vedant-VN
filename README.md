@@ -1,4 +1,4 @@
-<a href="https://ibb.co/Mg0bWm5"><img src="https://i.ibb.co/Tw3Zpsq/gavryl-artwork-250.jpg" alt="gavryl-artwork-250" border="0"></a>
+[![MasterHead](https://i.ibb.co/Tw3Zpsq/gavryl-artwork-250.jpg)](https://Vedant_vn.io)
 
 <h1>Heyo, I'm Vedant aka VN <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
