@@ -1,6 +1,5 @@
 <a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="100%" src="https://i.ibb.co/vLqfzNd/header.jpg" style="right" /></a>
-
-<h1>Heyo, I'm Vedant aka VN <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1> align="center"> Greetings Mate, I'm Vedant aka VN <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
