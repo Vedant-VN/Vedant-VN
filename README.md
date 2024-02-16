@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/Tw3Zpsq/gavryl-artwork-250.jpg)](https://Vedant_vn.io)
+<center><img src="https://i.ibb.co/Tw3Zpsq/gavryl-artwork-250.jpg" alt="UwU"></center>
 
 <h1>Heyo, I'm Vedant aka VN <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
