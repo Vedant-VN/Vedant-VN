@@ -1,5 +1,5 @@
 <a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="100%" src="https://i.ibb.co/vLqfzNd/header.jpg" style="right" /></a>
-<h1 align="center"> Greetings Mate, I'm Vedant aka VN <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center"> 𝑮𝒓𝒆𝒆𝒕𝒊𝒏𝒈𝒔 𝑴𝒂𝒕𝒆, 𝑰'𝒎 𝑽𝒆𝒅𝒂𝒏𝒕 𝒂𝒌𝒂 𝑽𝑵 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
@@ -10,7 +10,6 @@
 <h2>Quick: About Me Section ✨</h2> 
 <br>
 <a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="35%" src="https://tenor.com/view/haikyuu-gif-19416106.gif" style="right" /></a> 
-
 <ul>
     <li> Currently I'm Investing my time into learning <a href="https://react.dev/">React</a> </li> 
     <li> I have spent Most of my time learning frontend. </li>
@@ -20,7 +19,7 @@
 </ul>
 
 <details>
-<summary> <h2> Tech Knowledge 💻💡</h2> </summary>
+<summary> <h2> Tech Stack 💻💡</h2> </summary>
 
 Here is list of Language and tools I'm familiar with:
 
