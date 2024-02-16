@@ -1,3 +1,5 @@
+<a href="https://ibb.co/Mg0bWm5"><img src="https://i.ibb.co/Tw3Zpsq/gavryl-artwork-250.jpg" alt="gavryl-artwork-250" border="0"></a>
+
 <h1>Heyo, I'm Vedant aka VN <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
