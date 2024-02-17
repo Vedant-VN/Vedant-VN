@@ -95,7 +95,7 @@ Here is list of Language and tools I'm familiar with:
   <img alt="" src="" />
 </picture>
 </div>  
-[Most Used Languages](https://raw.githubusercontent.com/Vedant-VN/github-stats-transparent/output/generated/languages.svg)
+[![Metrics](./github-metrics.svg)](https://github/vedant-vn)
 
 <a href="https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
