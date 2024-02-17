@@ -60,14 +60,14 @@ Here is list of Language and tools I'm familiar with:
 </p>
 
 
-<h2>💬 Connect with me: </h2>  <img src="https://64.media.tumblr.com/5f6cf918f45b526a0ff61d8eda220970/fe16c5739c0ca569-4d/s100x200/a676ba25cba167e7d96327732d29f839a00413e6.gifv" width="72"/> 
-
+<h2>💬 Connect with me: </h2>  
+<a href="mailto:narutovn001@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="" height="30" width="40" /></a> 
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="clot27" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/757181303861936188" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="740430899048611883" height="30" width="40" /></a>
-<a href="mailto:narutovn001@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/playlist?list=PL6E2GmWufsArximvOKyoR533M3dLK8ogn" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="" height="30" width="40" /></a> 
-<a href="https://myanimelist.net/profile/VEDANT_VN" target="blank"><img align="center" src="https://www.svgrepo.com/show/512533/naruto-119.svg" alt="" height="30" width="40" /></a>
-
+<a href="https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy" target="blank"><img align="center" src="https://www.svgrepo.com/show/475684/spotify-color.svg" alt="" height="30" width="40" /></a>
+<a href="https://myanimelist.net/profile/VEDANT_VN" target="blank"><img align="center" src="https://www.svgrepo.com/show/485222/dragon-ball.svg" alt="" height="30" width="40" /></a>
+<img src="https://64.media.tumblr.com/5f6cf918f45b526a0ff61d8eda220970/fe16c5739c0ca569-4d/s100x200/a676ba25cba167e7d96327732d29f839a00413e6.gifv" width="72"/> 
 
 <br />
 
