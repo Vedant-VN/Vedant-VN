@@ -76,7 +76,7 @@ Here is list of Language and tools I'm familiar with:
 <details>
 <summary> <h2> Quote of the Day 👀👨‍💻</h2> </summary>
 <p>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)    
+![OwO](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)    
 </p>
 </details>
 ---
@@ -95,7 +95,7 @@ Here is list of Language and tools I'm familiar with:
   <img alt="" src="" />
 </picture>
 </div>  
-![Most Used Languages](https://raw.githubusercontent.com/Vedant-vn/github-stats-transparent/output/generated/languages.svg)
+[Most Used Languages](https://raw.githubusercontent.com/Vedant-vn/github-stats-transparent/output/generated/languages.svg)
 
 <a href="https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
