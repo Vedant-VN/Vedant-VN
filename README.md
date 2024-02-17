@@ -64,8 +64,9 @@ Here is list of Language and tools I'm familiar with:
 
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="clot27" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/757181303861936188" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="740430899048611883" height="30" width="40" /></a>
-
-<a href="mailto:narutovn001@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="" height="30" width="40" /></a>
+<a href="mailto:narutovn001@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="" height="30" width="40" /></a> 
+<a href="https://www.youtube.com/playlist?list=PL6E2GmWufsArximvOKyoR533M3dLK8ogn" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="" height="30" width="40" /></a> 
+<a href="https://myanimelist.net/profile/VEDANT_VN" target="blank"><img align="center" src="https://www.svgrepo.com/show/512533/naruto-119.svg" alt="" height="30" width="40" /></a>
 
 
 <br />
@@ -74,9 +75,6 @@ Here is list of Language and tools I'm familiar with:
 
 ---
 
-### ⭐ Fav Songs Playlist
-
-▶ [Youtube Playlist](https://www.youtube.com/playlist?list=PL6E2GmWufsArximvOKyoR533M3dLK8ogn)
 
 ---
 ### ![VN's github stats](https://github-readme-stats.vercel.app/api?username=Vedant-VN&show_icons=true&theme=radical&hide_title=true)
