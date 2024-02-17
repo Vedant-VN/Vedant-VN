@@ -18,6 +18,14 @@
     <li> Btw Do You Love Chess? Add Me On Chess.com Here's My <a href="https://www.chess.com/member/vedant_vn">Chess ID</a></li>
 </ul>
 
+<h2>💬 Connect with me: </h2>  
+<a href="mailto:narutovn001@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="" height="30" width="40" /></a> 
+<a href="https://telegram.me/Vedant_vn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="clot27" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/757181303861936188" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="740430899048611883" height="30" width="40" /></a>
+<a href="https://www.youtube.com/playlist?list=PL6E2GmWufsArximvOKyoR533M3dLK8ogn" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="" height="30" width="40" /></a> 
+<a href="https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy" target="blank"><img align="center" src="https://www.svgrepo.com/show/475684/spotify-color.svg" alt="" height="30" width="40" /></a>
+<a href="https://myanimelist.net/profile/VEDANT_VN" target="blank"><img align="center" src="https://www.svgrepo.com/show/485222/dragon-ball.svg" alt="" height="30" width="40" /></a>
+
 <details>
 <summary> <h2> Tech Stack 💻💡</h2> </summary>
 
@@ -58,15 +66,6 @@ Here is list of Language and tools I'm familiar with:
     <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="" srcset=""></a>
     <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="" srcset=""></a>
 </p>
-
-
-<h2>💬 Connect with me: </h2>  
-<a href="mailto:narutovn001@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="" height="30" width="40" /></a> 
-<a href="https://telegram.me/Vedant_vn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="clot27" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/757181303861936188" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="740430899048611883" height="30" width="40" /></a>
-<a href="https://www.youtube.com/playlist?list=PL6E2GmWufsArximvOKyoR533M3dLK8ogn" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="" height="30" width="40" /></a> 
-<a href="https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy" target="blank"><img align="center" src="https://www.svgrepo.com/show/475684/spotify-color.svg" alt="" height="30" width="40" /></a>
-<a href="https://myanimelist.net/profile/VEDANT_VN" target="blank"><img align="center" src="https://www.svgrepo.com/show/485222/dragon-ball.svg" alt="" height="30" width="40" /></a>
 
 ---
 
