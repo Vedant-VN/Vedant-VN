@@ -56,6 +56,9 @@ Connect with me: <img src="https://64.media.tumblr.com/5f6cf918f45b526a0ff61d8ed
 [<img align="left" alt="VN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VN | MAL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/crunchyroll.svg" />][MAL]
 
+<a href="https://telegram.me/Vedant_vn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="clot27" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/757181303861936188" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="740430899048611883" height="30" width="40" /></a>
+
 <br />
 
 <br />
