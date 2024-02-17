@@ -68,17 +68,6 @@ Here is list of Language and tools I'm familiar with:
 <a href="https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy" target="blank"><img align="center" src="https://www.svgrepo.com/show/475684/spotify-color.svg" alt="" height="30" width="40" /></a>
 <a href="https://myanimelist.net/profile/VEDANT_VN" target="blank"><img align="center" src="https://www.svgrepo.com/show/485222/dragon-ball.svg" alt="" height="30" width="40" /></a>
 
-<br />
-
-<br />
-
----
-<details>
-<summary> <h2> Quote of the Day 👀👨‍💻</h2> </summary>
-<p>
-![OwO](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)    
-</p>
-</details>
 ---
 
 <h2 align="center">⚡ My Github Stats! <img src="https://64.media.tumblr.com/5f6cf918f45b526a0ff61d8eda220970/fe16c5739c0ca569-4d/s100x200/a676ba25cba167e7d96327732d29f839a00413e6.gifv" width="40"> </h2>
@@ -97,7 +86,6 @@ Here is list of Language and tools I'm familiar with:
   <img alt="" src="" />
 </picture>
 </div>  
-
 
 <a href="https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
