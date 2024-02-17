@@ -45,7 +45,9 @@ Here is list of Language and tools I'm familiar with:
     <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="" srcset=""></a>
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="" srcset=""></a>
     <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="" srcset=""></a>
+    <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="" srcset=""></a>
     <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="" srcset=""></a>
+     <a href="https://digitalocean.com/"><img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="" srcset=""></a>
     <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="" srcset=""></a>
 </p>
 </details>
@@ -58,13 +60,13 @@ Here is list of Language and tools I'm familiar with:
 </p>
 
 
-Connect with me: <img src="https://64.media.tumblr.com/5f6cf918f45b526a0ff61d8eda220970/fe16c5739c0ca569-4d/s100x200/a676ba25cba167e7d96327732d29f839a00413e6.gifv" width="72"/> 
-[<img align="left" alt="VN | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
-[<img align="left" alt="VN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="VN | MAL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/crunchyroll.svg" />][MAL]
+<h2>💬 Connect with me: </h2>  <img src="https://64.media.tumblr.com/5f6cf918f45b526a0ff61d8eda220970/fe16c5739c0ca569-4d/s100x200/a676ba25cba167e7d96327732d29f839a00413e6.gifv" width="72"/> 
 
-<a href="https://telegram.me/Vedant_vn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="clot27" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="clot27" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/757181303861936188" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="740430899048611883" height="30" width="40" /></a>
+
+<a href="mailto:narutovn001@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="" height="30" width="40" /></a>
+
 
 <br />
 
