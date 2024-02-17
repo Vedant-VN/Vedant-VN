@@ -81,7 +81,7 @@ Here is list of Language and tools I'm familiar with:
 </details>
 ---
 
-<h2 align="center">⚡ My Github Stats! <img src="https://64.media.tumblr.com/5f6cf918f45b526a0ff61d8eda220970/fe16c5739c0ca569-4d/s100x200/a676ba25cba167e7d96327732d29f839a00413e6.gifv" width="22"> </h2>
+<h2 align="center">⚡ My Github Stats! <img src="https://64.media.tumblr.com/5f6cf918f45b526a0ff61d8eda220970/fe16c5739c0ca569-4d/s100x200/a676ba25cba167e7d96327732d29f839a00413e6.gifv" width="40"> </h2>
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Vedant-vn&theme=highcontrast&fire=DD5523&ring=E1397B&sideLabels=65FDF6&currStreakLabel=F9D659&&background=141320" width="48%" />
@@ -95,7 +95,7 @@ Here is list of Language and tools I'm familiar with:
   <img alt="" src="" />
 </picture>
 </div>  
-[Most Used Languages](https://raw.githubusercontent.com/Vedant-vn/github-stats-transparent/output/generated/languages.svg)
+[Most Used Languages](https://raw.githubusercontent.com/Vedant-VN/github-stats-transparent/output/generated/languages.svg)
 
 <a href="https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
