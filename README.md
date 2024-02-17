@@ -68,7 +68,6 @@ Here is list of Language and tools I'm familiar with:
 </p>
 
 ---
-
 <h2 align="center">⚡ My Github Stats! <img src="https://64.media.tumblr.com/5f6cf918f45b526a0ff61d8eda220970/fe16c5739c0ca569-4d/s100x200/a676ba25cba167e7d96327732d29f839a00413e6.gifv" width="40"> </h2>
 
 <div align="center">
@@ -86,5 +85,7 @@ Here is list of Language and tools I'm familiar with:
 </picture>
 </div>  
 
-<a href="https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+<h2>♫ Now Playing... </h2>  
+
+<a href="https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="500"/></a>
 </p>
