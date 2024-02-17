@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant-VN&label=Profile%20views&color=0e75b6&style=plastic" alt="VN" /> </p>
 
 <h2>Quick: About Me Section ✨</h2> 
-<br>
 <a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="35%" src="https://tenor.com/view/haikyuu-gif-19416106.gif" style="right" /></a> 
 <ul>
     <li> Currently I'm Investing my time into learning <a href="https://react.dev/">React</a> </li> 
