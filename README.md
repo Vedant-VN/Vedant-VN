@@ -10,11 +10,11 @@
 <h2>Quick: About Me Section ✨</h2> 
 <a href="https://github.com/Vedant-VN"><img align="right" height="auto" width="35%" src="https://tenor.com/view/haikyuu-gif-19416106.gif" style="right" /></a> 
 <ul>
-    <li> Currently I'm Investing my time into learning <a href="https://react.dev/">React</a> </li> 
-    <li> I have spent Most of my time learning frontend. </li>
-    <li> Aside from coding, <b>I love watching Anime series, Movies & TV Shows</a></b>.</li>
+    <li> Currently, I'm Investing my time in learning <a href="https://react.dev/">React</a> </li> 
+    <li> I have spent Most of my time playing around frontend. </li>
+    <li> Aside from coding, <b>I love watching Anime, Movies & TV Shows</a></b>.</li>
     <li> If Necessary, You can react out to me via <a href="mailto:narutovn001@gmail.com">Email</a>. </li>
-    <li> Btw Do You Love Chess? Add Me On Chess.com Here's My <a href="https://www.chess.com/member/vedant_vn">Chess ID</a></li>
+    <li> Btw Do You Play Chess? How about a game...Here's My <a href="https://www.chess.com/member/vedant_vn">Chess ID</a></li>
 </ul>
 
 <h2>💬 Connect with me: </h2>  
@@ -67,7 +67,7 @@ Here is list of Language and tools I'm familiar with:
 </p>
 
 ---
-<h2 align="center">⚡ My Github Stats! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBxaGN6aXdibmdnMmt0MmFpbmx1bHBseHppZXVlYmJoYWhydzE3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="40"> </h2>
+<h2 align="center">⚡ My Github Stats! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBxaGN6aXdibmdnMmt0MmFpbmx1bHBseHppZXVlYmJoYWhydzE3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="70"> </h2>
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Vedant-vn&theme=highcontrast&fire=DD5523&ring=E1397B&sideLabels=65FDF6&currStreakLabel=F9D659&&background=141320" width="48%" />
