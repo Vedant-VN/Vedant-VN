@@ -65,7 +65,6 @@ Here's a list of Languages and tools I'm familiar with:
     <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="" srcset=""></a>
     <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="" srcset=""></a>
 </p>
-
 ---
 <h2 align="center">⚡ My Github Stats!<img src="https://i.ibb.co/GdrCRfK/giphy-ezgif-com-crop.gif" width="60"> </h2> 
 
