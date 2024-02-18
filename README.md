@@ -84,7 +84,7 @@ Here is list of Language and tools I'm familiar with:
 </picture>
 </div>  
 
-<h2>♫ 𝐍𝐨𝐰 𝐏𝐥𝐚𝐲𝐢𝐧𝐠...<img src=" https://media1.tenor.com/m/r0BLupmCee4AAAAC/anime-girl-vibe.gif" width="60"> </h2> 
+<h2>♫ 𝐍𝐨𝐰 𝐏𝐥𝐚𝐲𝐢𝐧𝐠...<img src="https://media1.tenor.com/m/r0BLupmCee4AAAAC/anime-girl-vibe.gif" width="60"> </h2> 
 
 <a href="https://open.spotify.com/user/5goco7v2ndzwifzuvqv4x93qy" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="500"/></a>
 </p>
