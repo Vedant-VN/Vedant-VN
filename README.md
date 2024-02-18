@@ -67,7 +67,7 @@ Here is list of Language and tools I'm familiar with:
 </p>
 
 ---
-<h2 align="center">⚡ My Github Stats! <img src="https://i.ibb.co/GdrCRfK/giphy-ezgif-com-crop.gif" width="40"> </h2> 
+<h2 align="center">⚡ My Github Stats!<img src="https://i.ibb.co/GdrCRfK/giphy-ezgif-com-crop.gif" width="60"> </h2> 
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Vedant-vn&theme=highcontrast&fire=DD5523&ring=E1397B&sideLabels=65FDF6&currStreakLabel=F9D659&&background=141320" width="48%" />
